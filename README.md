@@ -2,7 +2,8 @@
 
 ## **Abdelkader SEBIHI**  
 📞 **(+213) 558827017**  
-✉️ **akadersbh@gmal.com**  
+✉️ **akadersbh@gmail.com**  
+🌐 **[dzairio.com/contact](https://dzairio.com/contact)**  
 
 ---
 
@@ -18,6 +19,11 @@
 ---
 
 ## **EXPERIENCE**
+
+### **Dzairio, SETIF** — *Founder & CEO*  
+*2024 – Present*  
+- Founded **Dzairio** (**ادوات مكتبية جزائرية** — *Algerian office tools*), building software that helps Algerian businesses, associations, and institutions digitize and simplify their daily operations.
+- Developed a suite of local tools including **HRDZ** (HR & payroll compliant with CNAS/IRG regulations), **DZDOC** (offline document management & archiving), and **CheckDZ** (check management with multi-language amount-to-text conversion).
 
 ### **Dzair Education, SETIF** — *Founder*  
 *Sep 2018 – 2023*  
@@ -41,6 +47,26 @@
 ### **Moonbox, SETIF** — *Founder & CEO*  
 *Sep 2023 – 2025*  
 - Established a company, worked with businesses, and developed apps including **EFRILI, SEHATI, TANDIF & Urbagest**.
+
+---
+
+## **SELECTED CLIENTS** *(via Dzairio)*
+
+- [Efrili](https://efrilidz.com)
+- [Aquila Academy](https://aquila-world.com)
+- [Algerian Red Crescent](https://cra.dz)
+- [Urbagest — Urban Furnishing Institution](https://www.urbagestsetif.com/)
+- [Setif Provincial Social Services Committee](https://www.cwostesetif.dz/)
+- [El Bazar E-commerce Platform](https://elbazar-dz.com)
+- [Quality Promotion & Consumer Protection Association, Setif](https://www.apqpcsetif.dz/)
+- [Amana Charity Association](https://assoamana.org)
+- [Algerian Consulting & Audiovisual Company (ACCA)](https://acca.dz)
+- [Serena Clinic](https://www.cnos.apqpcsetif.dz/)
+- [Madinat Al-Zahra](https://www.madinatalzahra.dz)
+- [Tehean Kalane](https://www.teheankalane.com)
+- [Aref Electronic Newspaper](https://benmerabet.com)
+- [Vessel (Canada)](https://apps.apple.com/fr/app/vessel/id1602000182?l=en-GB)
+- [Larbes Solar](https://larbessolar.com)
 
 ---
 
