@@ -88,7 +88,7 @@
 *Sep 2018 – 2021*  
 - Conducted free courses to spread **Google development tools** such as **Flutter** and **Firebase**.
 
-### **The Algerian Red Crescent** — *Volunteer & First Aid*  
+### **The Algerian Red Crescent** — *Volunteer & First Aid & IT*  
 *Sep 2023 – Present*  
 - Assisted in organizing and delivering humanitarian aid to vulnerable communities.
 - Supported disaster relief operations by collaborating with a logistics team.
